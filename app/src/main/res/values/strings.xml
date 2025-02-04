@@ -5,4 +5,8 @@
     <string name="login">Login</string>
     <string name="new_user_register_here">New user? Register here</string>
     <string name="register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="account_exist">Already have an account? Login</string>
+    <string name="create_account">Don\'t have an account? Register</string>
 </resources>
